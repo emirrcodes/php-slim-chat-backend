@@ -1,0 +1,26 @@
+# Composer vendor klasörü
+/vendor/
+
+# Ortam dosyaları
+.env
+
+# Laravel veya Slim gibi frameworklerde cache/log
+/storage/
+*.log
+
+# PHPUnit cache
+.phpunit.result.cache
+
+# SQLite local database
+*.sqlite
+
+# IDE dosyaları
+.idea/
+.vscode/
+
+# OS/system dosyaları
+.DS_Store
+Thumbs.db
+
+# Diğer
+node_modules/
