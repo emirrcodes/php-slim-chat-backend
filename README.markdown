@@ -1,6 +1,6 @@
 # Chat Application Backend 🚀
 
-This is a lightweight PHP backend for a chat application, developed as part of the Bunq Backend Engineering Coding Assignment for my application about Backend Enginnering Intern TR. Built using the **Slim Framework** and **Eloquent ORM** with a local **SQLite database**, it supports public chat groups where users can join, send messages, and list messages. No GUI or authentication is included as per the task spec user identity is handled via **user IDs** in the request payload. 🛠️
+This is a lightweight PHP backend for a chat application. Built using the **Slim Framework** and **Eloquent ORM** with a local **SQLite database**, it supports public chat groups where users can join, send messages, and list messages. No GUI or authentication is included as per the task spec user identity is handled via **user IDs** in the request payload. 🛠️
 
 ## Project Structure 📂
 The project rocks a clean, organized setup with:
